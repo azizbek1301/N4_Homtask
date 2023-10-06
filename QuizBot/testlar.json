@@ -1,0 +1,50 @@
+[
+  {
+    "A": "Zo\u0027r",
+    "B": "Daxshat",
+    "C": "Nihoyatda",
+    "CorrectAnswer": "A",
+    "D": "Yomon",
+    "Question": "Qalesan?"
+  },
+  {
+    "A": "5",
+    "B": "4",
+    "C": "6",
+    "CorrectAnswer": "B",
+    "D": "7",
+    "Question": "2*2=?"
+  },
+  {
+    "A": "667",
+    "B": "777",
+    "C": "0",
+    "CorrectAnswer": "C",
+    "D": "1",
+    "Question": "666*0=?"
+  },
+  {
+    "A": "25",
+    "B": "56",
+    "C": "65",
+    "CorrectAnswer": "D",
+    "D": "36",
+    "Question": "6*6=?"
+  },
+  {
+    "A": "2",
+    "B": "1",
+    "C": "9",
+    "CorrectAnswer": "D",
+    "D": "Nolga bo'lish mumkin emas'",
+    "Question": "9/0=?"
+  },
+  {
+    "A": "1",
+    "B": "52",
+    "C": "12",
+    "CorrectAnswer": "B",
+    "D": "49",
+    "Question": "AQSH ning nechta shtati bor"
+  }
+]
