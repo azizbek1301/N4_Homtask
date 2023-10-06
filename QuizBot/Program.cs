@@ -14,7 +14,7 @@ public class Program
     public static async Task Main()
     {
 
-        string token = "6635159812:AAGJpbsG6wY0oizUfwrixl0RYYBNsnV4OIc";
+        string token = "YourToken";
         var botClient = new TelegramBotClient(token);
 
         using CancellationTokenSource cts = new();
